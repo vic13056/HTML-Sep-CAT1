@@ -1,0 +1,22 @@
+.a{
+    height: 50vh;
+    display: flex;
+}
+.b, .c{
+    height: 50vh;
+    width: 33%;
+}
+.y{
+    width: 70px;
+    height: 33px;
+}
+.ln{
+    background-color: crimson;
+    border-radius: 5px;
+    width: 150px;
+    height: 20px;
+}
+.x{
+    height: 25vh;
+    width: 99%;
+}
